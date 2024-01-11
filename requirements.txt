@@ -1,0 +1,12 @@
+django
+djangorestframework
+django-cors-headers
+pillow
+django-tinymce
+fontawesomefree
+django-crispy-forms
+django-recaptcha
+six
+crispy-bootstrap5
+django-allauth
+python-dotenv
