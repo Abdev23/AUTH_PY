@@ -1,0 +1,16 @@
+
+{% extends "root.html" %}
+
+{% load static %}
+
+{% block content %}
+
+  {% include 'main_sidebar.html' %}
+
+  <div class="main">
+    <main>
+      {% include main_templates %}
+    </main>
+  </div>
+
+{% endblock %}

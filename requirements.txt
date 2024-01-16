@@ -5,8 +5,7 @@ pillow
 django-tinymce
 fontawesomefree
 django-crispy-forms
-django-recaptcha
-six
-crispy-bootstrap5
-django-allauth
 python-dotenv
+django-allauth
+six
+django-recaptcha

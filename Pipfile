@@ -5,6 +5,16 @@ name = "pypi"
 
 [packages]
 django = "*"
+djangorestframework = "*"
+django-cors-headers = "*"
+pillow = "*"
+django-tinymce = "*"
+fontawesomefree = "*"
+django-crispy-forms = "*"
+python-dotenv = "*"
+django-allauth = "*"
+six = "*"
+django-recaptcha = "*"
 
 [dev-packages]
 

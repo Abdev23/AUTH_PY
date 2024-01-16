@@ -1,0 +1,29 @@
+
+{% extends "root.html" %}
+
+{% load static %}
+
+{% block content %}
+
+  {% include 'app_navbar.html' %}
+
+  <div class="landingpage">
+    <main>
+      <div class="hero">
+        <h1> LANDING PAGE </h1>
+      </div>
+
+      <div class="section">
+        <div class="primary-button">
+          Button
+        </div>
+        <div class="secondary-button">
+          Button
+        </div>
+      </div>
+    </main>
+  </div>
+
+  {% include 'app_footer.html' %}
+
+{% endblock %}
